@@ -11,3 +11,6 @@ if [ -s "$OUT" ]; then
 fi
 
 # git diff --unified=0  f42baa3ff689e96186b2990bf3f2aecd0e2792a9  -- nyccfb_info_public_reports_pclt_25.htm.csv > new.modified.campaigns.txt
+# get emails
+# grep -oP 'E-Mail:.*?["S]' nyccfb_info_public_reports_pclt_25.htm.csv|sed 's/["S]$//'|sort -u|less
+# grep -oP 'E-Mail:.*?["S]' nyccfb_info_public_reports_pclt_25.htm.csv|sed 's/["S]$//'|sed 's/E-Mail://'|sort -u
