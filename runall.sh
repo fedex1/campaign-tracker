@@ -5,6 +5,7 @@ OUT="nyccfb_info_public_reports_pclt_25.htm.csv"
 
 html2csv <nyccfb_info_public_reports_pclt_25.htm >$OUT
 if [ -s "$OUT" ]; then
+    git log --patch --color-words  -- $OUT|npx ansi-to-html >changes.2025.html
 	git commit -m "${DATE}" .
 	git pull --quiet
 	git push
