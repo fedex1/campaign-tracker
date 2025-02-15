@@ -4,4 +4,4 @@ GitHub provides a visual interface for viewing the history of changes, comparing
 
 We are monitoring certain web pages and committing all the changes here.  
 
-See a report here https://html-preview.github.io/?url=https://github.com/fedex1/campaign-tracker/blob/main/changes.2025.html
+See a live updated report here https://html-preview.github.io/?url=https://github.com/fedex1/campaign-tracker/blob/main/changes.2025.html
