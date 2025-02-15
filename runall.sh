@@ -7,8 +7,9 @@ OUTHTML="changes.2025.html"
 html2csv <nyccfb_info_public_reports_pclt_25.htm >$OUT
 if [ -s "$OUT" ]; then
 echo '<pre>' >$OUTHTML
+    source ~/.nvm/nvm.sh
     nvm use v18.18.2
-    git log --patch --color-words  -- $OUT|head -2000| /home/ralph/.nvm/versions/node/v18.18.2/bin/npx ansi-to-html >> $OUTHTML
+    git log --patch --color-words  -- $OUT|head -2000| npx ansi-to-html >> $OUTHTML
 	git commit -m "${DATE}" .
 	git pull --quiet
 	git push
