@@ -8,4 +8,4 @@ See a live updated [report here](https://html-preview.github.io/?url=https://git
 
 https://html-preview.github.io/?url=https://github.com/fedex1/campaign-tracker/blob/main/changes.2025.html
 
-![Sample Report of Changes](./git\ change\ log\ for\ campaigns\ nyc.png)
+![Sample Report of Changes](git change log for campaigns nyc.png)
