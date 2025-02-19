@@ -9,7 +9,8 @@ if [ -s "$OUT" ]; then
 echo '<pre>' >$OUTHTML
     source ~/.nvm/nvm.sh
     nvm use v18.18.2
-    git log --patch --color-words  -- $OUT|head -2000| npx ansi-to-html >> $OUTHTML
+    # git log --patch --color-words  -- $OUT|head -2000| npx ansi-to-html >> $OUTHTML
+    git log --patch --color-words  -- $OUT|head -2000| npx ansi2html >> $OUTHTML
 	git commit -m "${DATE}" .
 	git pull --quiet
 	git push
