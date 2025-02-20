@@ -6,7 +6,7 @@ OUTHTML="changes.2025.html"
 
 html2csv <nyccfb_info_public_reports_pclt_25.htm >$OUT
 if [ -s "$OUT" ]; then
-echo '<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></head><body>' >$OUTHTML
+echo '<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></head><body><pre>' >$OUTHTML
     source ~/.nvm/nvm.sh
     nvm use v18.18.2
     # git log --patch --color-words  -- $OUT|head -2000| npx ansi-to-html >> $OUTHTML
