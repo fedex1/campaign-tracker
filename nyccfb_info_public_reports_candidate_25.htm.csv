@@ -35,6 +35,7 @@ Candidate,Classification,Office Sought
 "Brewer, Gale",Participant,City Council District 06
 "Brooks-Powers, Selvena",Undetermined,City Council District 31
 "Brown, Elijah M",Participant,City Council District 41
+"Brown, Telee§",Undetermined,City Council District 49
 "Buthorn, John K",Participant,City Council District 51
 "Caban, Tiffany",Participant,City Council District 22
 "Cabrera, Fernando L",Participant,City Council District 14
@@ -198,6 +199,7 @@ Candidate,Classification,Office Sought
 "Sanchez, Justin E",Participant,City Council District 17
 "Sanchez, Pierina A",Participant,City Council District 14
 "Santana, Elvis",Participant,City Council District 17
+"Santana, Raymond",Participant,City Council District 08
 "Santosuosso, Kayla",Participant,City Council District 47
 "Sarantopoulos, George",Participant,City Council District 47
 "Schargel, Gail",Undetermined,City Council District 02
@@ -245,9 +247,9 @@ Candidate,Classification,Office Sought
 "Yu, Eric",Participant,City Council District 01
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
-Participants:,232,
+Participants:,233,
 Non-Participants:,2,
-Undetermined:,12,
-Total Candidates:,246,
+Undetermined:,13,
+Total Candidates:,248,
 Terminated Candidates*:,8,
-Small Campaign§:,5,
+Small Campaign§:,6,
