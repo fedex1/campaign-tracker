@@ -119,7 +119,7 @@ Candidate,Classification,Office Sought
 "Laurel-Smith, Abbey",Participant,Mayor
 "Lee, Linda",Participant,City Council District 23
 "LeGrand, Latoya",Participant,City Council District 28
-"Lerman, Brian A",Participant,Mayor
+"Lerman, Brian A*",Participant,Mayor
 "Levine, Mark",Participant,Comptroller
 "Levy, Deirdre",Participant,Mayor
 "Lewinsohn, Elizabeth",Participant,City Council District 01
@@ -165,6 +165,7 @@ Candidate,Classification,Office Sought
 "Paladino, Vickie",Participant,City Council District 19
 "Parker, Kevin S",Participant,Comptroller
 "Pelinkovic, Mustafa",Participant,Mayor
+"Penafort, Christopher",Participant,City Council District 26
 "Perez, John",Participant,City Council District 13
 "Perez Jr., Freddy",Participant,City Council District 17
 "Peters, Dwight",Participant,Bronx Boro President
@@ -236,6 +237,7 @@ Candidate,Classification,Office Sought
 "Weiner, Anthony",Participant,City Council District 02
 "Wetzler, Benjamin D",Participant,City Council District 04
 "Willabus, Dimple",Participant,City Council District 46
+"Williams, Jomo M",Participant,City Council District 07
 "Williams, Jumaane D",Participant,Public Advocate
 "Williams, Nantasha",Participant,City Council District 27
 "Williams, Natalie",Participant,Mayor
@@ -247,9 +249,10 @@ Candidate,Classification,Office Sought
 "Yu, Eric",Participant,City Council District 01
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
-Participants:,233,
+"Zulfiqar, Namra",Participant,City Council District 48
+Participants:,236,
 Non-Participants:,2,
 Undetermined:,13,
-Total Candidates:,248,
-Terminated Candidates*:,8,
+Total Candidates:,251,
+Terminated Candidates*:,9,
 Small Campaign§:,6,
