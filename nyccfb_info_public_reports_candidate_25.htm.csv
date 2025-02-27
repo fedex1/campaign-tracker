@@ -36,7 +36,7 @@ Candidate,Classification,Office Sought
 "Brewer, Gale",Participant,City Council District 06
 "Brooks-Powers, Selvena",Undetermined,City Council District 31
 "Brown, Elijah M",Participant,City Council District 41
-"Brown, Telee§",Undetermined,City Council District 49
+"Brown, Telee",Participant,City Council District 49
 "Buthorn, John K",Participant,City Council District 51
 "Caban, Tiffany",Participant,City Council District 22
 "Cabrera, Fernando L",Participant,City Council District 14
@@ -87,6 +87,7 @@ Candidate,Classification,Office Sought
 "Gennaro, James F",Participant,City Council District 24
 "Gibbs, Edward",Participant,City Council District 08
 "Gibson, Vanessa L",Participant,Bronx Boro President
+"Gillespie, Brandon D",Participant,Mayor
 "Gordillo, Andrea",Participant,City Council District 02
 "Grimes, Bashek J",Participant,Queens Boro President
 "Gutierrez, Jennifer",Participant,City Council District 34
@@ -237,6 +238,7 @@ Candidate,Classification,Office Sought
 "Wedderburn, Sharon",Participant,City Council District 35
 "Weiner, Anthony",Participant,City Council District 02
 "Wetzler, Benjamin D",Participant,City Council District 04
+"Wilkinson, Amanda M",Participant,Mayor
 "Willabus, Dimple",Participant,City Council District 46
 "Williams, Jomo M",Participant,City Council District 07
 "Williams, Jumaane D",Participant,Public Advocate
@@ -251,9 +253,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,237,
+Participants:,240,
 Non-Participants:,2,
-Undetermined:,13,
-Total Candidates:,252,
+Undetermined:,12,
+Total Candidates:,254,
 Terminated Candidates*:,9,
-Small Campaign§:,6,
+Small Campaign§:,5,
