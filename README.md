@@ -6,6 +6,8 @@ We are monitoring certain web pages and committing all the changes here.
 
 See a live updated [report here](https://html-preview.github.io/?url=https://github.com/fedex1/campaign-tracker/blob/main/changes.2025.html).
 
+See a live updated [candidate / committee list here](https://html-preview.github.io/?url=https://github.com/fedex1/campaign-tracker/blob/main/committees.csv).
+
 https://html-preview.github.io/?url=https://github.com/fedex1/campaign-tracker/blob/main/changes.2025.html
 
 ![Sample Report of Changes](https://github.com/fedex1/campaign-tracker/blob/main/git%20change%20log%20for%20campaigns%20nyc.png)
