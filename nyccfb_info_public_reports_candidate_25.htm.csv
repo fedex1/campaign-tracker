@@ -2,6 +2,7 @@ Candidate,Classification,Office Sought
 "Abreu, Shaun",Participant,City Council District 07
 "Acquafredda, Janine",Participant,Brooklyn Boro President
 "Actille, Treasure J*",Participant,Mayor
+"Adams, Adrienne E",Participant,Mayor
 "Adams, Eric L",Participant,Mayor
 "Aiken, David",Participant,City Council District 21
 "Alayeto, Clarisa",Participant,City Council District 08
@@ -26,6 +27,7 @@ Candidate,Classification,Office Sought
 "Bartholomew, Dr. Selma K",Undetermined,Mayor
 "Batchu, Sarah L",Participant,City Council District 02
 "Batista, Anthony",Participant,City Council District 47
+"Bauer, Christina F",Participant,Public Advocate
 "Ben Zakar, Adam",Undetermined,Mayor
 "Berry, Neil D",Participant,City Council District 49
 "Blake, Michael A",Participant,Mayor
@@ -56,9 +58,10 @@ Candidate,Classification,Office Sought
 "Colon, Federico",Participant,City Council District 08
 "Creneti, Michael",Participant,City Council District 03
 "Cunningham, Bianca",Participant,City Council District 41
+"Cuomo, Andrew M",Participant,Mayor
 "Daniels, Vera V",Participant,City Council District 27
 "De La Rosa, Carmen",Participant,City Council District 10
-"Del Valle, Von S",Participant,Mayor
+"Del Valle, Von S",Participant,Queens Boro President
 "Diakhate, Abou S",Participant,City Council District 49
 "Diaz, David A",Participant,City Council District 13
 "Diaz, Elijah",Participant,City Council District 45
@@ -113,6 +116,7 @@ Candidate,Classification,Office Sought
 "Joyner, Scott E",Participant,Mayor
 "Kagan, Ari",Participant,City Council District 48
 "Kefalas, Peter",Participant,Comptroller
+"Kelly, Amanda L",Participant,City Council District 51
 "Khan, Tiffany",Participant,City Council District 07
 "King, Andy",Undetermined,City Council District 12
 "Kornberg, Maya",Participant,City Council District 39
@@ -149,6 +153,7 @@ Candidate,Classification,Office Sought
 "Menin, Julie",Undetermined,City Council District 05
 "Miller, Constance*",Participant,City Council District 28
 "Miller, Terrell*",Participant,Mayor
+"Mohan, Radhakrishna",Participant,City Council District 50
 "Monroe, Diamond",Participant,Public Advocate
 "Monserrate, Hiram",Participant,City Council District 21
 "Montoya, Erycka",Participant,City Council District 21
@@ -198,7 +203,7 @@ Candidate,Classification,Office Sought
 "Ross, Javon T§",Undetermined,Mayor
 "Ryan, Allison L",Participant,City Council District 02
 "Saghir, Luke P",Participant,City Council District 39
-"Salaam, Yusef",Participant,City Council District 09
+"Salaam, Yusef",Non-Participant,City Council District 09
 "Salamanca, Rafael",Participant,Bronx Boro President
 "Sanchez, Elizabeth",Participant,City Council District 09
 "Sanchez, Justin E",Participant,City Council District 17
@@ -247,6 +252,7 @@ Candidate,Classification,Office Sought
 "Williams, Nantasha",Participant,City Council District 27
 "Williams, Natalie",Participant,Mayor
 "Williams, Sherena L",Participant,Public Advocate
+"Wills, Rubin W",Participant,City Council District 28
 "Wilson, Evette",Participant,City Council District 14
 "Won, Julie",Participant,City Council District 26
 "Wong, Phil",Participant,City Council District 30
@@ -255,9 +261,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,242,
-Non-Participants:,2,
+Participants:,247,
+Non-Participants:,3,
 Undetermined:,12,
-Total Candidates:,256,
+Total Candidates:,262,
 Terminated Candidates*:,9,
 Small Campaign§:,5,
