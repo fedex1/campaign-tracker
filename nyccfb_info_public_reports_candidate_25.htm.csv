@@ -52,6 +52,7 @@ Candidate,Classification,Office Sought
 "Chou, Benjamin",Participant,City Council District 19
 "Chow, Bernard",Participant,City Council District 23
 "Chung, Youn",Participant,City Council District 19
+"Clarke, Athena",Participant,City Council District 46
 "Coleman, Jess K",Participant,City Council District 01
 "Coley, Naomi G",Participant,Mayor
 "Colombo, Michael",Participant,Staten Island Boro President
@@ -90,7 +91,7 @@ Candidate,Classification,Office Sought
 "Gennaro, James F",Participant,City Council District 24
 "Gibbs, Edward",Participant,City Council District 08
 "Gibson, Vanessa L",Participant,Bronx Boro President
-"Gillespie, Brandon D",Participant,Mayor
+"Gillespie, Dr. Brandon D",Participant,Mayor
 "Gordillo, Andrea",Participant,City Council District 02
 "Grimes, Bashek J",Participant,Queens Boro President
 "Gutierrez, Jennifer",Participant,City Council District 34
@@ -151,6 +152,7 @@ Candidate,Classification,Office Sought
 "Mealy, Darlene",Participant,City Council District 41
 "Medina, Sarah",Participant,Public Advocate
 "Menin, Julie",Undetermined,City Council District 05
+"Merchan, Mac R",Participant,City Council District 25
 "Miller, Constance*",Participant,City Council District 28
 "Miller, Terrell*",Participant,Mayor
 "Mohan, Radhakrishna",Participant,City Council District 50
@@ -261,9 +263,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,247,
+Participants:,249,
 Non-Participants:,3,
 Undetermined:,12,
-Total Candidates:,262,
+Total Candidates:,264,
 Terminated Candidates*:,9,
 Small Campaign§:,5,
