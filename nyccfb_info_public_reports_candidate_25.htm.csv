@@ -69,7 +69,7 @@ Candidate,Classification,Office Sought
 "Diaz, Rosa G",Participant,City Council District 08
 "Dinowitz, Eric",Participant,City Council District 11
 "Dolan, Martin W",Participant,Public Advocate
-"Duran, Gonzalo",Participant,Mayor
+"Duran, Gonzalo",Participant,Public Advocate
 "Durchin, Zahava",Participant,City Council District 44
 "Edwards, Khari",Participant,Brooklyn Boro President
 "El-Gamasy, Hatem",Participant,City Council District 45
@@ -170,6 +170,7 @@ Candidate,Classification,Office Sought
 "Nurse, Sandy",Participant,City Council District 37
 "Odula, Mathieu O",Participant,Mayor
 "Okporo, Edafe",Participant,City Council District 07
+"Okuneff, Andrew J",Participant,City Council District 34
 "Ortiz, Antirson R",Participant,City Council District 17
 "Osse, Chi",Participant,City Council District 36
 "Pacheco, Ricardo J",Participant,City Council District 25
@@ -264,9 +265,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,250,
+Participants:,251,
 Non-Participants:,3,
 Undetermined:,12,
-Total Candidates:,265,
+Total Candidates:,266,
 Terminated Candidates*:,9,
 Small Campaign§:,5,
