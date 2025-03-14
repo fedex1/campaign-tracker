@@ -78,7 +78,7 @@ Candidate,Classification,Office Sought
 "Epstein, Harvey D",Participant,City Council District 02
 "Farias, Amanda",Non-Participant,City Council District 18
 "Felder, Simcha",Participant,City Council District 44
-"Feliciano, Hector",Participant,City Council District 08
+"Feliciano, Hector*",Participant,City Council District 08
 "Feliz, Oswald",Participant,City Council District 15
 "Fisher, Corinne",Participant,Mayor
 "Fitzgerald, Cleopatra*",Participant,Mayor
@@ -102,6 +102,7 @@ Candidate,Classification,Office Sought
 "Haque, Shah S",Participant,City Council District 25
 "Harris, John R",Participant,Mayor
 "Harris, John Maynard",Participant,City Council District 14
+"Harrison, Linda T",Participant,City Council District 47
 "Henderson, Jamell",Participant,City Council District 41
 "Henriquez, Yanna M",Participant,City Council District 21
 "Herbert-Guggenheim, Danielle",Participant,City Council District 11
@@ -183,7 +184,7 @@ Candidate,Classification,Office Sought
 "Penafort, Christopher",Participant,City Council District 26
 "Perez, John",Participant,City Council District 13
 "Perez Jr., Freddy",Participant,City Council District 17
-"Peters, Dwight",Participant,Bronx Boro President
+"Peters, Dwight*",Participant,Bronx Boro President
 "Pieters, Austin",Participant,City Council District 27
 "Pinkhasov, Anzhela",Participant,City Council District 48
 "Pogozelski, Paul J",Participant,City Council District 30
@@ -223,6 +224,7 @@ Candidate,Classification,Office Sought
 "Schulman, Lynn",Participant,City Council District 29
 "Seals, Tina R§",Undetermined,City Council District 01
 "Serrano, Christina",Participant,City Council District 41
+"Shaende, Jonas",Participant,Mayor
 "Shea, John E",Participant,City Council District 49
 "Sifontes, Stephen G",Participant,Mayor
 "Singh, Japneet",Participant,City Council District 28
@@ -230,6 +232,7 @@ Candidate,Classification,Office Sought
 "Smyth, Dermot",Participant,City Council District 30
 "Spiak, Peter",Participant,City Council District 38
 "Springs, Gordon",Participant,City Council District 07
+"Stachel, Karen",Participant,Mayor
 "Stevens, Althea V",Undetermined,City Council District 16
 "Stora, Skiboky S",Participant,Mayor
 "Storch, Rachel",Non-Participant,City Council District 04
@@ -269,9 +272,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,254,
+Participants:,257,
 Non-Participants:,3,
 Undetermined:,13,
-Total Candidates:,270,
-Terminated Candidates*:,9,
+Total Candidates:,273,
+Terminated Candidates*:,11,
 Small Campaign§:,5,
