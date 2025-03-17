@@ -7,6 +7,8 @@ We are monitoring certain web pages and committing all the changes here.
 See a live updated [report here](https://html-preview.github.io/?url=https://github.com/fedex1/campaign-tracker/blob/main/changes.2025.html).
 
 See a live updated [candidate / committee list here](./committees.csv).
+See [searchable candidate list](
+./nyccfb_info_public_reports_candidate_25.htm.csv)
 
 https://html-preview.github.io/?url=https://github.com/fedex1/campaign-tracker/blob/main/changes.2025.html
 
