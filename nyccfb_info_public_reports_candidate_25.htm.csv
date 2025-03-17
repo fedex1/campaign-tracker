@@ -54,7 +54,7 @@ Candidate,Classification,Office Sought
 "Chung, Youn",Participant,City Council District 19
 "Clarke, Athena",Participant,City Council District 46
 "Coleman, Jess K",Participant,City Council District 01
-"Coley, Naomi G",Participant,Mayor
+"Coley, Naomi G*",Participant,Mayor
 "Colombo, Michael",Participant,Staten Island Boro President
 "Colon, Federico",Participant,City Council District 08
 "Creneti, Michael",Participant,City Council District 03
@@ -230,7 +230,7 @@ Candidate,Classification,Office Sought
 "Singh, Japneet",Participant,City Council District 28
 "Sliwa, Curtis A",Participant,Mayor
 "Smyth, Dermot",Participant,City Council District 30
-"Spiak, Peter",Participant,City Council District 38
+"Spiak, Peter*",Participant,City Council District 38
 "Springs, Gordon",Participant,City Council District 07
 "Stachel, Karen",Participant,Mayor
 "Stevens, Althea V",Undetermined,City Council District 16
@@ -276,5 +276,5 @@ Participants:,257,
 Non-Participants:,3,
 Undetermined:,13,
 Total Candidates:,273,
-Terminated Candidates*:,11,
+Terminated Candidates*:,13,
 Small Campaign§:,5,
