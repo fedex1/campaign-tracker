@@ -85,6 +85,7 @@ Candidate,Classification,Office Sought
 "Fitzgerald, Cleopatra*",Participant,Mayor
 "Florczak, Lukas",Participant,City Council District 04
 "Flores, Louis",Participant,City Council District 03
+"Foley, Joseph",Participant,City Council District 02
 "Fossella, Griffin",Participant,City Council District 51
 "Fossella, Vito J",Participant,Staten Island Boro President
 "Frias, Ramses",Participant,City Council District 25
@@ -234,6 +235,7 @@ Candidate,Classification,Office Sought
 "Spiak, Peter*",Participant,City Council District 38
 "Springs, Gordon",Participant,City Council District 07
 "Stachel, Karen",Participant,Mayor
+"Steinberger, Ean",Participant,Mayor
 "Stevens, Althea V",Undetermined,City Council District 16
 "Stora, Skiboky S",Participant,Mayor
 "Storch, Rachel",Non-Participant,City Council District 04
@@ -273,9 +275,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,258,
+Participants:,260,
 Non-Participants:,3,
 Undetermined:,13,
-Total Candidates:,274,
+Total Candidates:,276,
 Terminated Candidates*:,13,
 Small Campaign§:,5,
