@@ -45,7 +45,7 @@ Candidate,Classification,Office Sought
 "Buthorn, John K",Participant,City Council District 51
 "Caban, Tiffany",Participant,City Council District 22
 "Cabrera, Fernando L",Participant,City Council District 14
-"Cambry, Yvette§",Undetermined,City Council District 40
+"Cambry, Yvette§",Non-Participant,City Council District 40
 "Carr, David M",Participant,City Council District 50
 "Carter-Williams, Jozette",Participant,City Council District 49
 "Caruso, Alexander J",Participant,City Council District 19
@@ -100,6 +100,7 @@ Candidate,Classification,Office Sought
 "Gordillo, Andrea",Participant,City Council District 02
 "Grimes, Bashek J",Participant,Queens Boro President
 "Gutierrez, Jennifer",Participant,City Council District 34
+"Gutierrez, Kyle N§",Undetermined,Mayor
 "Hagen, Clifford A",Participant,City Council District 51
 "Hanif, Shahana",Participant,City Council District 39
 "Hankerson, Tyrell D",Participant,City Council District 28
@@ -217,7 +218,7 @@ Candidate,Classification,Office Sought
 "Romeo, Dominick",Participant,City Council District 03
 "Roque, Erwin",Participant,Queens Boro President
 "Rose, Diane",Participant,City Council District 21
-"Ross, Javon T§",Undetermined,Mayor
+"Ross, Javon T§",Non-Participant,Mayor
 "Ryan, Allison L",Participant,City Council District 02
 "Saghir, Luke P",Participant,City Council District 39
 "Salaam, Yusef",Non-Participant,City Council District 09
@@ -283,8 +284,8 @@ Candidate,Classification,Office Sought
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
 Participants:,267,
-Non-Participants:,3,
-Undetermined:,13,
-Total Candidates:,283,
+Non-Participants:,5,
+Undetermined:,12,
+Total Candidates:,284,
 Terminated Candidates*:,13,
-Small Campaign§:,5,
+Small Campaign§:,6,
