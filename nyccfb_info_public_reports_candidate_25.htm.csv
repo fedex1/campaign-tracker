@@ -93,6 +93,7 @@ Candidate,Classification,Office Sought
 "Fossella, Vito J",Participant,Staten Island Boro President
 "Frias, Ramses",Participant,City Council District 25
 "Fridman, Moshe",Participant,City Council District 44
+"Gates, Sabrina",Participant,City Council District 33
 "Gennaro, James F",Participant,City Council District 24
 "Gibbs, Edward",Participant,City Council District 08
 "Gibson, Vanessa L",Participant,Bronx Boro President
@@ -211,7 +212,7 @@ Candidate,Classification,Office Sought
 "Reynoso, Antonio",Participant,Brooklyn Boro President
 "Richards, Donovan",Participant,Queens Boro President
 "Riley, Kevin C",Participant,City Council District 12
-"Rinaldi, Jonathan D",Participant,City Council District 30
+"Rinaldi, Jonathan D",Participant,City Council District 29
 "Rivera, Aidan",Participant,City Council District 49
 "Rivera, Joel R",Participant,City Council District 13
 "Robertson, Hector",Participant,City Council District 35
@@ -240,6 +241,7 @@ Candidate,Classification,Office Sought
 "Singh, Japneet",Participant,City Council District 28
 "Sliwa, Curtis A",Participant,Mayor
 "Smyth, Dermot",Participant,City Council District 30
+"Solo, Ebon Y",Participant,Mayor
 "Spiak, Peter*",Participant,City Council District 38
 "Springs, Gordon",Participant,City Council District 07
 "Stachel, Karen",Participant,Mayor
@@ -283,9 +285,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,267,
+Participants:,269,
 Non-Participants:,5,
 Undetermined:,12,
-Total Candidates:,284,
+Total Candidates:,286,
 Terminated Candidates*:,13,
 Small Campaign§:,6,
