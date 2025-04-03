@@ -56,6 +56,7 @@ Candidate,Classification,Office Sought
 "Chow, Bernard",Participant,City Council District 23
 "Chung, Youn",Participant,City Council District 19
 "Clarke, Athena",Participant,City Council District 46
+"Cleary, Justin",Participant,City Council District 02
 "Coleman, Jess K",Participant,City Council District 01
 "Coley, Naomi G*",Participant,Mayor
 "Colombo, Michael",Participant,Staten Island Boro President
@@ -181,6 +182,7 @@ Candidate,Classification,Office Sought
 "Nahom, Ronen",Participant,Mayor
 "Narcisse, Mercedes",Participant,City Council District 46
 "Navarro, Sandro S",Participant,City Council District 21
+"Ndolo, Nimay E§",Undetermined,City Council District 34
 "Nouinou, Fatimazohra",Participant,Mayor
 "Nurse, Sandy",Participant,City Council District 37
 "Odula, Mathieu O",Participant,Mayor
@@ -286,9 +288,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,270,
+Participants:,271,
 Non-Participants:,5,
-Undetermined:,12,
-Total Candidates:,287,
+Undetermined:,13,
+Total Candidates:,289,
 Terminated Candidates*:,13,
-Small Campaign§:,6,
+Small Campaign§:,7,
