@@ -96,7 +96,7 @@ Candidate,Classification,Office Sought
 "Fridman, Moshe",Participant,City Council District 44
 "Gates, Sabrina",Participant,City Council District 33
 "Gennaro, James F",Participant,City Council District 24
-"Gibbs, Edward",Participant,City Council District 08
+"Gibbs, Edward*",Participant,City Council District 08
 "Gibson, Vanessa L",Participant,Bronx Boro President
 "Gillespie, Dr. Brandon D",Participant,Mayor
 "Gordillo, Andrea",Participant,City Council District 02
@@ -292,5 +292,5 @@ Participants:,271,
 Non-Participants:,5,
 Undetermined:,13,
 Total Candidates:,289,
-Terminated Candidates*:,13,
+Terminated Candidates*:,14,
 Small Campaign§:,7,
