@@ -25,7 +25,7 @@ Candidate,Classification,Office Sought
 "Aviles, Alexa",Participant,City Council District 38
 "Banks, Christopher",Participant,City Council District 42
 "Barsamian, Dikran",Participant,City Council District 47
-"Bartholomew, Dr. Selma K",Undetermined,Mayor
+"Bartholomew, Dr. Selma K",Participant,Mayor
 "Batchu, Sarah L",Participant,City Council District 02
 "Batista, Anthony",Participant,City Council District 47
 "Batts, Jeffery Kazembe",Participant,City Council District 36
@@ -289,9 +289,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,271,
+Participants:,272,
 Non-Participants:,5,
-Undetermined:,14,
+Undetermined:,13,
 Total Candidates:,290,
 Terminated Candidates*:,14,
 Small Campaign§:,7,
