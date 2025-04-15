@@ -29,7 +29,6 @@ Candidate,Classification,Office Sought
 "Batchu, Sarah L",Participant,City Council District 02
 "Batista, Anthony",Participant,City Council District 47
 "Batts, Jeffery Kazembe",Participant,City Council District 36
-"Bauer, Chris F",Participant,Public Advocate
 "Ben Zakar, Adam",Undetermined,Mayor
 "Berry, Neil D",Participant,City Council District 49
 "Blake, Michael A",Participant,Mayor
@@ -114,6 +113,7 @@ Candidate,Classification,Office Sought
 "Harrison, Linda T",Participant,City Council District 47
 "Henderson, Jamell",Participant,City Council District 41
 "Henriquez, Yanna M",Participant,City Council District 21
+"Henry, Cecil",Participant,City Council District 36
 "Herbert-Guggenheim, Danielle",Participant,City Council District 11
 "Hinton, Clifton A",Participant,City Council District 41
 "Hitlall, Romeo",Participant,City Council District 28
@@ -123,7 +123,7 @@ Candidate,Classification,Office Sought
 "Hudson, Crystal",Participant,City Council District 35
 "Huq, Md M*",Participant,Mayor
 "Ikezi, Henry",Participant,Queens Boro President
-"Jenkins, Vincent K§",Undetermined,Manhattan Boro President
+"Jenkins, Vincent K§",Undetermined,City Council District 02
 "Joseph, Rita C",Participant,City Council District 40
 "Joseph, Shakur T",Participant,City Council District 16
 "Joyner, Scott E",Participant,Mayor
@@ -220,6 +220,7 @@ Candidate,Classification,Office Sought
 "Rinaldi, Jonathan D",Participant,City Council District 29
 "Rivera, Aidan",Participant,City Council District 49
 "Rivera, Joel R",Participant,City Council District 13
+"Rivera, Joel R",Participant,City Council District 13
 "Robertson, Hector",Participant,City Council District 35
 "Romeo, Dominick",Participant,City Council District 03
 "Roque, Erwin",Participant,Queens Boro President
@@ -290,9 +291,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,272,
+Participants:,273,
 Non-Participants:,5,
 Undetermined:,14,
-Total Candidates:,291,
+Total Candidates:,292,
 Terminated Candidates*:,14,
 Small Campaign§:,8,
