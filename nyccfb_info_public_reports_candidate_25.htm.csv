@@ -29,6 +29,8 @@ Candidate,Classification,Office Sought
 "Batchu, Sarah L",Participant,City Council District 02
 "Batista, Anthony",Participant,City Council District 47
 "Batts, Jeffery Kazembe",Participant,City Council District 36
+"Bauer, Chris F",Participant,Public Advocate
+"Belfield, Terrell",Participant,City Council District 42
 "Ben Zakar, Adam",Undetermined,Mayor
 "Berry, Neil D",Participant,City Council District 49
 "Blake, Michael A",Participant,Mayor
@@ -53,6 +55,7 @@ Candidate,Classification,Office Sought
 "Chino-Tavarez, Theo B",Participant,Public Advocate
 "Chou, Benjamin",Participant,City Council District 19
 "Chow, Bernard",Participant,City Council District 23
+"Chung, Youn",Participant,City Council District 19
 "Clarke, Athena",Participant,City Council District 46
 "Cleary, Justin",Participant,City Council District 02
 "Coleman, Jess K",Participant,City Council District 01
@@ -274,7 +277,7 @@ Candidate,Classification,Office Sought
 "Wedderburn, Sharon",Participant,City Council District 35
 "Weiner, Anthony",Participant,City Council District 02
 "Wetzler, Benjamin D",Participant,City Council District 04
-"Wilkinson, Amanda M",Participant,City Council District 07
+"Wilkinson, Amanda M*",Participant,City Council District 07
 "Willabus, Dimple",Participant,City Council District 46
 "Williams, Jomo M",Participant,City Council District 07
 "Williams, Jumaane D",Participant,Public Advocate
@@ -290,9 +293,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,272,
+Participants:,275,
 Non-Participants:,5,
 Undetermined:,14,
-Total Candidates:,291,
-Terminated Candidates*:,14,
+Total Candidates:,294,
+Terminated Candidates*:,15,
 Small Campaign§:,8,
