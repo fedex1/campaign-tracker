@@ -1,0 +1,56 @@
+# Edit this file to introduce tasks to be run by cron.
+# 
+# Each task to run has to be defined through a single line
+# indicating with different fields when the task will be run
+# and what command to run for the task
+# 
+# To define the time you can provide concrete values for
+# minute (m), hour (h), day of month (dom), month (mon),
+# and day of week (dow) or use '*' in these fields (for 'any').
+# 
+# Notice that tasks will be started based on the cron's system
+# daemon's notion of time and timezones.
+# 
+# Output of the crontab jobs (including errors) is sent through
+# email to the user the crontab file belongs to (unless redirected).
+# 
+# For example, you can run a backup of all your user accounts
+# at 5 a.m every week with:
+# 0 5 * * 1 tar -zcf /var/backups/home.tgz /home/
+# 
+# For more information see the manual pages of crontab(5) and cron(8)
+# 
+SHELL=/bin/bash
+# m h  dom mon dow   command
+# 0 1 * * * (systemctl restart typesense-server.service) >> $HOME/tmp/typesense-server.service.log.txt
+# 2 13-23 * * 1-5 (cd $HOME/github.com/fedex1/prop-marketing/scripts && . $HOME/.profile && ./runall_load_typesense.sh ) >> $HOME/tmp/runall_load_typesense.`date '+%Y-%m-%d'`.out.txt 2>&1
+# */2 * * * * (DATE=$(date "+%Y-%m-%d") && cd $HOME/github.com/fedex1/prop-marketing/scripts && . $HOME/.profile && ./runall_load_typesense.sh ) >> $HOME/tmp/runall_load_typesense.${DATE}.out.txt 2>&1)
+
+# paused
+# geocode zillow
+# 0 8 * * * (cd $HOME/github.com/fedex1/prop-marketing/scripts && . $HOME/.profile && ./cron_runall_load_rental_to_typesense.sh) > $HOME/tmp/cron_runall_load_typesense.out.txt 2>&1
+# */30 * * * * (cd $HOME/github.com/fedex1/prop-marketing/scripts && . $HOME/.profile && ./cron_runall_load_typesense.sh)
+
+# paused
+# */04 * * * * (cd $HOME/github.com/fedex1/prop-marketing/scripts && . $HOME/.profile && ./runall_load_rental_to_typesense_from_extension.sh) 2>&1 > $HOME/tmp/runall_load_rental_to_typesense_from_extension.out.txt 2>&1
+# */10 * * * * (cd $HOME/github.com/fedex1/real-estate-search/scripts && . $HOME/.profile && ./runall_backup_firestore.sh) > $HOME/tmp/runall_backup_firestore.sh.out.txt 2>&1
+
+3 * * * * (cd $HOME/github.com/fedex1/youtube-upload-private  && . $HOME/.profile && ./getallcommentspam.sh) > $HOME/tmp/./getallcommentspam.sh.out.txt 2>&1
+
+5 6 * * * (cd $HOME/github.com/fedex1/youtube-upload-private  && . $HOME/.profile && ./processrsstoyoutube.sh) > $HOME/tmp/./processrsstoyoutube.sh.out.txt 2>&1
+
+5 * * * * (cd $HOME/github.com/fedex1/campaign-tracker  && . $HOME/.profile && bash -x ./runall.sh) > $HOME/tmp/./campaign-tracker-runall.sh.out.txt 2>&1
+
+6 * * * * (cd $HOME/github.com/fedex1/campaign-tracker/nyc-boe-ledgers  && . $HOME/.profile && bash -x ./runall.sh) > $HOME/tmp/./campaign-tracker-nyc-boe-ledgers-runall.sh.out.txt 2>&1
+
+7 * * * * (cd $HOME/github.com/fedex1/campaign-tools/stripe  && . $HOME/.profile && bash -x ./runall.sh) > $HOME/tmp/./campaign-tools-stripe-runall.sh.out.txt 2>&1
+
+# 0 23 * * * (cd $HOME/github.com/fedex1/prop-marketing/scripts && . $HOME/.profile && ./cron_runall_load_eventbrite_to_typesense.sh)
+
+# paused
+# */10 * * * * (cd $HOME/github.com/fedex1/prop-marketing/scripts && . $HOME/.profile && ./cron_runall_load_eventbrite_to_typesense.sh)
+55 23 * * * (find ~/tmp -mtime +30 -type f -exec rm {} \;)
+
+# */31 * * * * (cd $HOME/github.com/fedex1/prop-marketing/scripts && . $HOME/.profile && ./cron_runall_stripe_load_subscriptions.sh)
+
+# */1 * * * * echo test && date >> /tmp/mycommand.log 2>&1
