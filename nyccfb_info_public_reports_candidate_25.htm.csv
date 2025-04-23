@@ -132,7 +132,7 @@ Candidate,Classification,Office Sought
 "Kagan, Ari",Participant,City Council District 48
 "Kane, Nickie",Participant,City Council District 39
 "Kefalas, Peter",Participant,Comptroller
-"Kelly, Amanda L",Participant,City Council District 51
+"Kelly, Amanda L*",Participant,City Council District 51
 "Khan, Tiffany",Participant,City Council District 07
 "King, Andy",Undetermined,City Council District 12
 "Kornberg, Maya",Participant,City Council District 39
@@ -238,6 +238,7 @@ Candidate,Classification,Office Sought
 "Santana, Elvis",Participant,City Council District 17
 "Santana, Raymond",Participant,City Council District 08
 "Santosuosso, Kayla",Participant,City Council District 47
+"Sapaskis, Stylo A§",Undetermined,City Council District 11
 "Sarantopoulos, George",Participant,City Council District 47
 "Schargel, Gail",Undetermined,City Council District 02
 "Schulman, Lynn",Participant,City Council District 29
@@ -273,6 +274,7 @@ Candidate,Classification,Office Sought
 "Vernikov, Inna",Participant,City Council District 48
 "Walden, James",Participant,Mayor
 "Wang, Allen H",Participant,City Council District 20
+"Wang, Steven",Participant,City Council District 20
 "Ward, Tabitha§",Undetermined,Mayor
 "Wedderburn, Sharon",Participant,City Council District 35
 "Weiner, Anthony",Participant,City Council District 02
@@ -293,9 +295,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,275,
+Participants:,276,
 Non-Participants:,5,
-Undetermined:,14,
-Total Candidates:,294,
-Terminated Candidates*:,15,
-Small Campaign§:,8,
+Undetermined:,15,
+Total Candidates:,296,
+Terminated Candidates*:,16,
+Small Campaign§:,9,
