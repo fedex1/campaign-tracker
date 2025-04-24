@@ -54,6 +54,7 @@ Candidate,Classification,Office Sought
 "Chang, Wayne A",Participant,Brooklyn Boro President
 "Chino-Tavarez, Theo B",Participant,Public Advocate
 "Chou, Benjamin",Participant,City Council District 19
+"Chou, Joseph J",Undetermined,City Council District 20
 "Chow, Bernard",Participant,City Council District 23
 "Chung, Youn",Participant,City Council District 19
 "Clarke, Athena",Participant,City Council District 46
@@ -66,7 +67,7 @@ Candidate,Classification,Office Sought
 "Creneti, Michael",Participant,City Council District 03
 "Cunningham, Bianca",Participant,City Council District 41
 "Cuomo, Andrew M",Participant,Mayor
-"Daniels, Vera V",Participant,City Council District 27
+"Daniels, Vera V",Non-Participant,City Council District 27
 "De La Rosa, Carmen",Participant,City Council District 10
 "Del Valle, Von S",Participant,Queens Boro President
 "Diakhate, Abou S",Participant,City Council District 49
@@ -295,9 +296,9 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,276,
-Non-Participants:,5,
-Undetermined:,15,
-Total Candidates:,296,
+Participants:,275,
+Non-Participants:,6,
+Undetermined:,16,
+Total Candidates:,297,
 Terminated Candidates*:,16,
 Small Campaign§:,9,
