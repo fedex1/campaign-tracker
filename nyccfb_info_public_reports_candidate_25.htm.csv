@@ -75,7 +75,7 @@ Candidate,Classification,Office Sought
 "Diaz, Elijah",Participant,City Council District 45
 "Diaz, Rosa G",Participant,City Council District 08
 "Dinowitz, Eric",Participant,City Council District 11
-"Dolan, Martin W",Participant,Public Advocate
+"Dolan, Martin W",Non-Participant,Public Advocate
 "Duran, Gonzalo",Participant,Public Advocate
 "Durchin, Zahava",Participant,City Council District 44
 "Edwards, Khari",Participant,Brooklyn Boro President
@@ -296,8 +296,8 @@ Candidate,Classification,Office Sought
 "Zayas, Evette",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
-Participants:,275,
-Non-Participants:,6,
+Participants:,274,
+Non-Participants:,7,
 Undetermined:,16,
 Total Candidates:,297,
 Terminated Candidates*:,16,
