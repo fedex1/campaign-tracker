@@ -46,7 +46,7 @@ Candidate,Classification,Office Sought
 "Buthorn, John K",Participant,City Council District 51
 "Caban, Tiffany",Participant,City Council District 22
 "Cabrera, Fernando L",Participant,City Council District 14
-"Cambry, Yvette§",Non-Participant,City Council District 40
+"Cambry, Yvette*§",Non-Participant,City Council District 40
 "Carr, David M",Participant,City Council District 50
 "Carter-Williams, Jozette",Participant,City Council District 49
 "Caruso, Alexander J",Participant,City Council District 19
@@ -309,5 +309,5 @@ Candidate,Classification,Office Sought
 Participants:,275,
 Non-Participants:,32,
 Total Candidates:,307,
-Terminated Candidates*:,17,
+Terminated Candidates*:,18,
 Small Campaign§:,2,
