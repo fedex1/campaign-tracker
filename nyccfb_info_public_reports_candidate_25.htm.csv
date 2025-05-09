@@ -208,7 +208,7 @@ Candidate,Classification,Office Sought
 "Pacheco, Ricardo J",Participant,City Council District 25
 "Paladino, Vickie",Participant,City Council District 19
 "Parker, Kevin S",Participant,Comptroller
-"Pelinkovic, Mustafa",Participant,Mayor
+"Pelinkovic, Mustafa*",Participant,Mayor
 "Penafort, Christopher",Participant,City Council District 26
 "Perez, John",Participant,City Council District 13
 "Perez Jr., Freddy",Participant,City Council District 17
@@ -311,5 +311,5 @@ Candidate,Classification,Office Sought
 Participants:,275,
 Non-Participants:,34,
 Total Candidates:,309,
-Terminated Candidates*:,18,
+Terminated Candidates*:,19,
 Small Campaign§:,3,
