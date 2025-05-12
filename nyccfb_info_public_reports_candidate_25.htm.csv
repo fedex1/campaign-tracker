@@ -249,7 +249,7 @@ Candidate,Classification,Office Sought
 "Santana, Elvis",Participant,City Council District 17
 "Santana, Raymond",Participant,City Council District 08
 "Santosuosso, Kayla",Participant,City Council District 47
-"Sapaskis, Stylo A",Non-Participant,City Council District 11
+"Sapaskis, Stylo A§",Non-Participant,City Council District 11
 "Sarantopoulos, George",Participant,City Council District 47
 "Schargel, Gail",Non-Participant,City Council District 02
 "Schulman, Lynn",Participant,City Council District 29
@@ -312,4 +312,4 @@ Participants:,275,
 Non-Participants:,34,
 Total Candidates:,309,
 Terminated Candidates*:,19,
-Small Campaign§:,3,
+Small Campaign§:,4,
