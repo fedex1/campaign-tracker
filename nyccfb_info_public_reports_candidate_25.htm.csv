@@ -50,7 +50,7 @@ Candidate,Classification,Office Sought
 "Carr, David M",Participant,City Council District 50
 "Carter-Williams, Jozette",Participant,City Council District 49
 "Caruso, Alexander J",Participant,City Council District 19
-"Chan, Jerry*",Participant,City Council District 43
+"Chan, Jerry",Participant,City Council District 43
 "Chang, Wayne A",Participant,Brooklyn Boro President
 "Chino-Tavarez, Theo B*",Participant,Public Advocate
 "Chou, Benjamin",Participant,City Council District 19
@@ -312,5 +312,5 @@ Candidate,Classification,Office Sought
 Participants:,275,
 Non-Participants:,35,
 Total Candidates:,310,
-Terminated Candidates*:,77,
+Terminated Candidates*:,76,
 Small Campaign§:,4,
