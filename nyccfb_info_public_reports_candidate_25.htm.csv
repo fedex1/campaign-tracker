@@ -86,6 +86,7 @@ Candidate,Classification,Office Sought
 "Endeley, Saint Jermaine*",Participant,Comptroller
 "Epstein, Harvey D",Participant,City Council District 02
 "Estrada, Irene",Participant,Mayor
+"Fan, Shizhe",Non-Participant,City Council District 01
 "Farias, Amanda",Non-Participant,City Council District 18
 "Felder, Simcha",Participant,City Council District 44
 "Feliciano, Hector*",Participant,City Council District 08
@@ -145,6 +146,7 @@ Candidate,Classification,Office Sought
 "Khan, Tiffany",Participant,City Council District 07
 "King, Andy",Non-Participant,City Council District 12
 "Kornberg, Maya",Participant,City Council District 39
+"Krishna, Gowri",Non-Participant,Mayor
 "Krishnan, Shekar",Participant,City Council District 25
 "Lander, Brad",Participant,Mayor
 "Lara, Jacqueline",Participant,City Council District 03
@@ -311,7 +313,7 @@ Candidate,Classification,Office Sought
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
 Participants:,275,
-Non-Participants:,36,
-Total Candidates:,311,
+Non-Participants:,38,
+Total Candidates:,313,
 Terminated Candidates*:,74,
 Small Campaign§:,5,
