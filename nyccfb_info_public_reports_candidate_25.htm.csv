@@ -63,7 +63,7 @@ Candidate,Classification,Office Sought
 "Coley, Naomi G*",Participant,Mayor
 "Colombo, Michael",Participant,Staten Island Boro President
 "Colon, Federico",Participant,City Council District 08
-"Colucci, Joel",Non-Participant,City Council District 01
+"Colucci, Joel§",Non-Participant,City Council District 01
 "Creneti, Michael*",Participant,City Council District 03
 "Cunningham, Bianca",Participant,City Council District 41
 "Cuomo, Andrew M",Participant,Mayor
@@ -105,7 +105,7 @@ Candidate,Classification,Office Sought
 "Gennaro, James F",Participant,City Council District 24
 "Gibbs, Edward*",Participant,City Council District 08
 "Gibson, Vanessa L",Participant,Bronx Boro President
-"Gillespie, Dr. Brandon D*",Participant,Mayor
+"Gillespie, Dr. Brandon D",Participant,Mayor
 "Gordillo, Andrea",Participant,City Council District 02
 "Grimes, Bashek J*",Participant,Queens Boro President
 "Gutierrez, Jennifer",Participant,City Council District 34
@@ -195,7 +195,7 @@ Candidate,Classification,Office Sought
 "Moseley, Montell C",Participant,Mayor
 "Murillo, Jason C",Participant,City Council District 02
 "Myrie, Zellnor",Participant,Mayor
-"Nahom, Ronen*",Participant,Mayor
+"Nahom, Ronen",Participant,Mayor
 "Narcisse, Mercedes",Participant,City Council District 46
 "Navarro, Sandro S*",Participant,City Council District 21
 "Ndolo, Nimay E*",Non-Participant,City Council District 34
@@ -273,6 +273,7 @@ Candidate,Classification,Office Sought
 "Storch, Rachel",Non-Participant,City Council District 04
 "Stringer, Scott M",Participant,Mayor
 "Sun, Calvin D",Participant,Manhattan Boro President
+"Teichman, Isaac S",Non-Participant,City Council District 24
 "Thomas-Henry, Shanel",Participant,City Council District 21
 "Thompson, Collin L",Participant,City Council District 05
 "Thompson, Jammel A",Participant,City Council District 41
@@ -310,7 +311,7 @@ Candidate,Classification,Office Sought
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
 Participants:,275,
-Non-Participants:,35,
-Total Candidates:,310,
-Terminated Candidates*:,76,
-Small Campaign§:,4,
+Non-Participants:,36,
+Total Candidates:,311,
+Terminated Candidates*:,74,
+Small Campaign§:,5,
