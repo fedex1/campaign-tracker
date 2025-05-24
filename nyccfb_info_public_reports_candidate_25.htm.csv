@@ -239,7 +239,7 @@ Candidate,Classification,Office Sought
 "Robertson, Hector",Participant,City Council District 35
 "Romeo, Dominick",Participant,City Council District 03
 "Roque, Erwin",Participant,Queens Boro President
-"Rose, Diane*",Participant,City Council District 21
+"Rose, Diane",Participant,City Council District 21
 "Rosenberger, Benny",Participant,City Council District 35
 "Ross, Javon T§",Non-Participant,Mayor
 "Ryan, Allie L",Participant,City Council District 02
@@ -275,6 +275,7 @@ Candidate,Classification,Office Sought
 "Storch, Rachel",Non-Participant,City Council District 04
 "Stringer, Scott M",Participant,Mayor
 "Sun, Calvin D",Participant,Manhattan Boro President
+"Swiney, Reginald",Non-Participant,City Council District 36
 "Teichman, Isaac S",Non-Participant,City Council District 24
 "Thomas-Henry, Shanel",Participant,City Council District 21
 "Thompson, Collin L",Participant,City Council District 05
@@ -313,7 +314,7 @@ Candidate,Classification,Office Sought
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
 Participants:,275,
-Non-Participants:,38,
-Total Candidates:,313,
-Terminated Candidates*:,74,
+Non-Participants:,39,
+Total Candidates:,314,
+Terminated Candidates*:,73,
 Small Campaign§:,5,
