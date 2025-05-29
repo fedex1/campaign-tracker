@@ -54,7 +54,7 @@ Candidate,Classification,Office Sought
 "Chang, Wayne A",Participant,Brooklyn Boro President
 "Chino-Tavarez, Theo B*",Participant,Public Advocate
 "Chou, Benjamin",Participant,City Council District 19
-"Chou, Joseph J*",Non-Participant,City Council District 20
+"Chou, Joseph J",Non-Participant,City Council District 20
 "Chow, Bernard",Participant,City Council District 23
 "Chung, Youn*",Non-Participant,City Council District 19
 "Clarke, Athena",Participant,City Council District 46
@@ -316,5 +316,5 @@ Candidate,Classification,Office Sought
 Participants:,275,
 Non-Participants:,39,
 Total Candidates:,314,
-Terminated Candidates*:,73,
+Terminated Candidates*:,72,
 Small Campaign§:,5,
