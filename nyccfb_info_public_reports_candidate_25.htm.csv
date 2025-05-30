@@ -77,7 +77,7 @@ Candidate,Classification,Office Sought
 "Dinowitz, Eric",Participant,City Council District 11
 "Dolan, Martin W",Non-Participant,Public Advocate
 "Duran, Gonzalo",Participant,Public Advocate
-"Duran, Marisol",Non-Participant,City Council District 17
+"Duran, Marisol§",Non-Participant,City Council District 17
 "Durchin, Zahava*",Participant,City Council District 44
 "Easton, Andre",Non-Participant,Mayor
 "Edwards, Khari",Participant,Brooklyn Boro President
@@ -110,7 +110,7 @@ Candidate,Classification,Office Sought
 "Gordillo, Andrea",Participant,City Council District 02
 "Grimes, Bashek J*",Participant,Queens Boro President
 "Gutierrez, Jennifer",Participant,City Council District 34
-"Gutierrez, Kyle N*",Non-Participant,Mayor
+"Gutierrez, Kyle N*§",Non-Participant,Mayor
 "Hagen, Clifford A",Participant,City Council District 51
 "Hanif, Shahana",Participant,City Council District 39
 "Hankerson, Tyrell D",Participant,City Council District 28
@@ -134,7 +134,7 @@ Candidate,Classification,Office Sought
 "Huq, Md M*",Participant,Mayor
 "Ikezi, Henry",Participant,Queens Boro President
 "Iwachiw, Walter N§",Non-Participant,Mayor
-"Jenkins, Vincent K",Non-Participant,Manhattan Boro President
+"Jenkins, Vincent K§",Non-Participant,Manhattan Boro President
 "Jones, Natasha D",Participant,City Council District 04
 "Joseph, Rita C",Participant,City Council District 40
 "Joseph, Shakur T",Participant,City Council District 16
@@ -165,7 +165,7 @@ Candidate,Classification,Office Sought
 "Lord, Kris",Non-Participant,Mayor
 "Louis, Farah",Participant,City Council District 45
 "Lynch, Lawman",Participant,City Council District 41
-"Mailhot, Paul",Non-Participant,Mayor
+"Mailhot, Paul§",Non-Participant,Mayor
 "Maio, Danniel",Participant,Comptroller
 "Malave, Ismael",Participant,Comptroller
 "Maloney, Virginia",Participant,City Council District 04
@@ -184,7 +184,7 @@ Candidate,Classification,Office Sought
 "Mealy, Darlene",Participant,City Council District 41
 "Medina, Sarah*",Participant,Public Advocate
 "Menin, Julie",Non-Participant,City Council District 05
-"Merced-Bonilla, Zenobia",Non-Participant,City Council District 18
+"Merced-Bonilla, Zenobia§",Non-Participant,City Council District 18
 "Merchan, Mac R*",Participant,City Council District 25
 "Miller, Constance*",Participant,City Council District 28
 "Miller, Terrell*",Participant,Mayor
@@ -200,7 +200,7 @@ Candidate,Classification,Office Sought
 "Nahom, Ronen",Participant,Mayor
 "Narcisse, Mercedes",Participant,City Council District 46
 "Navarro, Sandro S*",Participant,City Council District 21
-"Ndolo, Nimay E*",Non-Participant,City Council District 34
+"Ndolo, Nimay E*§",Non-Participant,City Council District 34
 "Nouinou, Fatimazohra",Participant,Mayor
 "Nurse, Sandy",Participant,City Council District 37
 "Odula, Mathieu O*",Participant,Mayor
@@ -212,7 +212,7 @@ Candidate,Classification,Office Sought
 "Paladino, Vickie",Participant,City Council District 19
 "Parker, Kevin S",Participant,Comptroller
 "Pelinkovic, Mustafa*",Participant,Mayor
-"Penafort, Christopher",Participant,City Council District 26
+"Penafort, Christopher*",Participant,City Council District 26
 "Perez, John",Participant,City Council District 13
 "Perez Jr., Freddy",Participant,City Council District 17
 "Peters, Dwight*",Participant,Bronx Boro President
@@ -256,7 +256,7 @@ Candidate,Classification,Office Sought
 "Sarantopoulos, George",Participant,City Council District 47
 "Schargel, Gail",Non-Participant,City Council District 02
 "Schulman, Lynn",Participant,City Council District 29
-"Seals, Tina R*",Non-Participant,City Council District 01
+"Seals, Tina R*§",Non-Participant,City Council District 01
 "Serrano, Christina*",Participant,City Council District 41
 "Shaende, Jonas",Participant,Mayor
 "Shaffer, Yehuda",Participant,City Council District 41
@@ -292,8 +292,8 @@ Candidate,Classification,Office Sought
 "Walden, James",Participant,Mayor
 "Wang, Allen H",Participant,City Council District 20
 "Wang, Steven",Participant,City Council District 20
-"Ward, Tabitha",Non-Participant,Mayor
-"Washington-Ward, James",Non-Participant,City Council District 12
+"Ward, Tabitha§",Non-Participant,Mayor
+"Washington-Ward, James§",Non-Participant,City Council District 12
 "Wedderburn, Sharon*",Participant,City Council District 35
 "Weiner, Anthony",Participant,City Council District 02
 "Wetzler, Benjamin D",Participant,City Council District 04
@@ -316,5 +316,5 @@ Candidate,Classification,Office Sought
 Participants:,275,
 Non-Participants:,39,
 Total Candidates:,314,
-Terminated Candidates*:,72,
-Small Campaign§:,5,
+Terminated Candidates*:,73,
+Small Campaign§:,14,
