@@ -138,6 +138,7 @@ Candidate,Classification,Office Sought
 "Jones, Natasha D",Participant,City Council District 04
 "Joseph, Rita C",Participant,City Council District 40
 "Joseph, Shakur T",Participant,City Council District 16
+"Joyner, John J§",Non-Participant,Public Advocate
 "Joyner, Scott E*",Participant,Mayor
 "Kagan, Ari",Participant,City Council District 48
 "Kane, Nickie",Participant,City Council District 39
@@ -314,7 +315,7 @@ Candidate,Classification,Office Sought
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
 Participants:,275,
-Non-Participants:,39,
-Total Candidates:,314,
+Non-Participants:,40,
+Total Candidates:,315,
 Terminated Candidates*:,73,
-Small Campaign§:,14,
+Small Campaign§:,15,
