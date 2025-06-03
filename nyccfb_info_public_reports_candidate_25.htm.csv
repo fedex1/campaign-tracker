@@ -8,7 +8,7 @@ Candidate,Classification,Office Sought
 "Alayeto, Clarisa",Participant,City Council District 08
 "Aldebol, Shirley",Participant,City Council District 13
 "Alexandre, Dominique K*",Participant,City Council District 41
-"Alny, Joe*",Participant,Mayor
+"Alny, Joe",Participant,Mayor
 "Altidor, Kenny",Participant,City Council District 46
 "Anglade, Jean h",Participant,Mayor
 "Aquino, Angela*",Non-Participant,Public Advocate
@@ -317,5 +317,5 @@ Candidate,Classification,Office Sought
 Participants:,275,
 Non-Participants:,40,
 Total Candidates:,315,
-Terminated Candidates*:,73,
+Terminated Candidates*:,72,
 Small Campaign§:,15,
