@@ -11,7 +11,7 @@ Candidate,Classification,Office Sought
 "Alny, Joe",Participant,Mayor
 "Altidor, Kenny",Participant,City Council District 46
 "Anglade, Jean h",Participant,Mayor
-"Aquino, Angela*",Non-Participant,Public Advocate
+"Aquino, Angela",Non-Participant,Public Advocate
 "Aquino, Darren D*",Participant,Mayor
 "Ariola, Joann",Participant,City Council District 32
 "Armstead, Eric W",Participant,Mayor
@@ -272,7 +272,7 @@ Candidate,Classification,Office Sought
 "Stachel, Karen",Participant,Mayor
 "Steinberger, Ean*",Participant,Mayor
 "Stevens, Althea V",Non-Participant,City Council District 16
-"Stora, Skiboky S*",Participant,Mayor
+"Stora, Skiboky S",Participant,Mayor
 "Storch, Rachel",Non-Participant,City Council District 04
 "Stringer, Scott M",Participant,Mayor
 "Sun, Calvin D",Participant,Manhattan Boro President
@@ -317,5 +317,5 @@ Candidate,Classification,Office Sought
 Participants:,275,
 Non-Participants:,40,
 Total Candidates:,315,
-Terminated Candidates*:,72,
+Terminated Candidates*:,70,
 Small Campaign§:,15,
