@@ -197,6 +197,7 @@ Candidate,Classification,Office Sought
 "Montoya, Erycka",Participant,City Council District 21
 "Morales, Salvador*",Participant,Mayor
 "Morano, Frank",Participant,City Council District 51
+"Morgan, Matthew",Non-Participant,City Council District 39
 "Moseley, Montell C",Participant,Mayor
 "Murillo, Jason C",Participant,City Council District 02
 "Myrie, Zellnor",Participant,Mayor
@@ -210,6 +211,7 @@ Candidate,Classification,Office Sought
 "Okporo, Edafe",Participant,City Council District 07
 "Okuneff, Andrew J*",Participant,City Council District 34
 "Ortiz, Antirson R",Participant,City Council District 17
+"Osborne, Alaska D",Non-Participant,Mayor
 "Osse, Chi",Participant,City Council District 36
 "Pacheco, Ricardo J",Participant,City Council District 25
 "Paladino, Vickie",Participant,City Council District 19
@@ -261,7 +263,7 @@ Candidate,Classification,Office Sought
 "Schulman, Lynn",Participant,City Council District 29
 "Seals, Tina R*§",Non-Participant,City Council District 01
 "Serrano, Christina*",Participant,City Council District 41
-"Shaende, Jonas",Participant,Mayor
+"Shaende, Jonas*",Participant,Mayor
 "Shaffer, Yehuda",Participant,City Council District 41
 "Shea, John E",Participant,City Council District 49
 "Sifontes, Stephen G*",Participant,Mayor
@@ -313,12 +315,13 @@ Candidate,Classification,Office Sought
 "Won, Julie",Participant,City Council District 26
 "Wong, Phil",Participant,City Council District 30
 "Ye, Ling",Participant,City Council District 38
+"York, Dana§",Non-Participant,Mayor
 "Yu, Eric",Participant,City Council District 01
 "Zayas, Evette*",Participant,City Council District 08
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
 Participants:,275,
-Non-Participants:,43,
-Total Candidates:,318,
-Terminated Candidates*:,70,
-Small Campaign§:,17,
+Non-Participants:,46,
+Total Candidates:,321,
+Terminated Candidates*:,71,
+Small Campaign§:,18,
