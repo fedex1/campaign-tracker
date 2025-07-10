@@ -50,6 +50,7 @@ Candidate,Classification,Office Sought
 "Carr, David M",Participant,City Council District 50
 "Carter-Williams, Jozette",Participant,City Council District 49
 "Caruso, Alexander J",Participant,City Council District 19
+"Castellanos, Francesca M",Non-Participant,City Council District 10
 "Chan, Jerry",Participant,City Council District 43
 "Chang, Wayne A",Participant,Brooklyn Boro President
 "Chino-Tavarez, Theo B*",Participant,Public Advocate
@@ -108,6 +109,7 @@ Candidate,Classification,Office Sought
 "Gibbs, Edward*",Participant,City Council District 08
 "Gibson, Vanessa L",Participant,Bronx Boro President
 "Gillespie, Dr. Brandon D",Participant,Mayor
+"Goodman, Tyreek",Non-Participant,City Council District 08
 "Gordillo, Andrea",Participant,City Council District 02
 "Grimes, Bashek J*",Participant,Queens Boro President
 "Gutierrez, Jennifer",Participant,City Council District 34
@@ -321,7 +323,7 @@ Candidate,Classification,Office Sought
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra",Participant,City Council District 48
 Participants:,275,
-Non-Participants:,46,
-Total Candidates:,321,
+Non-Participants:,48,
+Total Candidates:,323,
 Terminated Candidates*:,71,
 Small Campaign§:,18,
