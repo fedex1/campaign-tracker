@@ -70,7 +70,7 @@ Candidate,Classification,Office Sought
 "Cuomo, Andrew M",Participant,Mayor
 "Daniels, Vera V",Non-Participant,City Council District 27
 "De La Rosa, Carmen",Participant,City Council District 10
-"Del Valle, Von S*",Participant,Queens Boro President
+"Del Valle, Von S",Participant,Queens Boro President
 "Diakhate, Abou S",Participant,City Council District 49
 "Diaz, David A",Participant,City Council District 13
 "Diaz, Elijah",Participant,City Council District 45
@@ -329,5 +329,5 @@ Candidate,Classification,Office Sought
 Participants:,275,
 Non-Participants:,52,
 Total Candidates:,327,
-Terminated Candidates*:,97,
+Terminated Candidates*:,96,
 Small Campaign§:,20,
