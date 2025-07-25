@@ -43,6 +43,7 @@ Candidate,Classification,Office Sought
 "Brooks-Powers, Selvena",Non-Participant,City Council District 31
 "Brown, Elijah M",Participant,City Council District 41
 "Brown, Telee",Participant,City Council District 49
+"Burwick, Max",Non-Participant,Mayor
 "Buthorn, John K",Participant,City Council District 51
 "Caban, Tiffany",Participant,City Council District 22
 "Cabrera, Fernando L",Participant,City Council District 14
@@ -295,6 +296,7 @@ Candidate,Classification,Office Sought
 "Tischler, Harold",Participant,City Council District 44
 "Torres, Jacqueline J",Participant,City Council District 13
 "Trafficante, Liliana M",Participant,City Council District 13
+"Trent, Phoenix",Non-Participant,Mayor
 "Ung, Sandra",Participant,City Council District 20
 "Uribe, Jasmine*",Participant,City Council District 17
 "Usmanov, Fedir",Participant,City Council District 47
@@ -327,7 +329,7 @@ Candidate,Classification,Office Sought
 "Zhuang, Susan",Participant,City Council District 43
 "Zulfiqar, Namra*",Participant,City Council District 48
 Participants:,275,
-Non-Participants:,52,
-Total Candidates:,327,
+Non-Participants:,54,
+Total Candidates:,329,
 Terminated Candidates*:,96,
 Small Campaign§:,20,
