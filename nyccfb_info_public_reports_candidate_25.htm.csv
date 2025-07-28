@@ -217,7 +217,7 @@ Candidate,Classification,Office Sought
 "Okporo, Edafe",Participant,City Council District 07
 "Okuneff, Andrew J*",Participant,City Council District 34
 "Ortiz, Antirson R",Participant,City Council District 17
-"Osborne, Alaska D",Non-Participant,Mayor
+"Osborne, Alaska D*",Non-Participant,Mayor
 "Osse, Chi",Participant,City Council District 36
 "Pacheco, Ricardo J",Participant,City Council District 25
 "Paladino, Vickie",Participant,City Council District 19
@@ -331,5 +331,5 @@ Candidate,Classification,Office Sought
 Participants:,275,
 Non-Participants:,54,
 Total Candidates:,329,
-Terminated Candidates*:,96,
+Terminated Candidates*:,97,
 Small Campaign§:,20,
