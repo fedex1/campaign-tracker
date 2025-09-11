@@ -304,7 +304,7 @@ Candidate,Classification,Office Sought
 "Usmanov, Fedir",Participant,City Council District 47
 "Vaichunas, Alicia B",Participant,City Council District 30
 "Vernikov, Inna",Participant,City Council District 48
-"Walden, James",Participant,Mayor
+"Walden, James*",Participant,Mayor
 "Wang, Allen H",Participant,City Council District 20
 "Wang, Steven",Participant,City Council District 20
 "Ward, Tabitha§",Non-Participant,Mayor
@@ -333,5 +333,5 @@ Candidate,Classification,Office Sought
 Participants:,275,
 Non-Participants:,56,
 Total Candidates:,331,
-Terminated Candidates*:,97,
+Terminated Candidates*:,98,
 Small Campaign§:,20,
