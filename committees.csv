@@ -133,6 +133,7 @@ CARMEN FOR NYC 2023,23  Richmond Place,No,01/27/2022,(347)765-5385,zoe.arian@gma
 CARMEN FOR NYC 2025,P.O. Box  344,No,05/30/2024,(929)884-4024,jamesburke81@gmail.com,James  Burke,New York City Council,,No,No,[],True
 CARR 2023,156  Prescott Avenue,No,10/06/2022,(646)389-9321,lcentineo215@gmail.com,Nancy  Marks,Self-Employed,,No,No,[],True
 CARR 2025,156  Prescott Avenue,No,04/28/2024,(347)907-3612,rpallarino@gmail.com,Richard  Pallarino,Citi,,No,No,[],True
+CARR 2025 TIE,156  Prescott Avenye,No,12/05/2025,(347)216-5243,lcentineo215@gmail.com,Loren M Centineo,New York City Council,,No,No,[],True
 CASTRO FOR COUNCIL,60-01  169th Street,No,03/06/2023,(646)772-4268,sylviatmiranda@gmail.com,Sylvia T Miranda,Self-Employed,,No,No,[],True
 CENTRAL BROOKLYN INDEPENDENT DEMOCRATS,"301  5th Avenue
 ,  4R",No,04/09/2025,(917)608-2080,joecbid@gmail.com,Joseph  Criscione,Retired,,No,Yes,[],False
@@ -156,7 +157,7 @@ CHRISTOPHER MORRIS-PERRY FOR CITY COUNCIL,"200  W 147th St
 CITIZEN ACTION OF NY PAC,94  Central Ave,No,04/30/2025,(518)465-4600,rgarrard@citizenactionny.org,Rebecca  Garrard,Citizen Action of NY,Albany,No,Yes,[],False
 CITIZENS FOR CLEARY,"26  E 13th
 ,  4C",No,04/03/2025,(347)908-5445,justintcleary@gmail.com,Justin  Cleary,Self-Employed,,No,No,[],True
-CIVIL SERVICE EMPLOYEES POLITICAL ACTION FUND,143  Washington Ave,No,02/06/2023,(518)436-8622,davin.carroll@cseainc.org,Nicole  Meeks,Civil Service Employees Association,,No,Yes,[],False
+CIVIL SERVICE EMPLOYEES POLITICAL ACTION FUND,143  Washington Ave,No,02/06/2023,(518)436-8622,davin.carroll@cseainc.org,Nicole  Meeks,Civil Service Employees Association,Albany,No,Yes,[],False
 CLAIRE FOR MAYOR 2025,"348  W 47th St
 ,  2A",No,06/21/2024,(424)355-3737,claireabelle.inc@gmail.com,Claire  Armstrong,The Gersh Agency,,No,No,[],True
 CLARISA ALAYETO FRIENDS OF,"122  Alexander Ave
@@ -265,7 +266,7 @@ DINOWITZ 2025,"3701  Henry Hudson Parkway
 DINOWITZ FOR COUNCIL,"5800  Arlington Avenue
 ,  4B",No,06/08/2022,(917)363-4565,ericdinowitz@gmail.com,,,,No,No,[],True
 DOCTORS COUNCIL SEIU COPE,"50  Broadway
-,  11 Flr",No,02/17/2022,(212)532-7690,info@doctorscouncil.org,"Sheena  Nandi, D.D.S.",Doctors Council SEIU NYC Health and Hospitals,New York,No,Yes,[],False
+,  11 Flr",No,02/17/2022,(212)532-7690,info@doctorscouncil.org,,Doctors Council SEIU NYC Health and Hospitals,New York,No,Yes,[],False
 DOM 2025,"305  West 18th Street
 ,  SUPT",No,10/24/2024,(917)409-7747,info@dom2025.com,Dominick  Romeo,305 Condo Corp,,No,No,[],True
 DOMINIQUE ALEXANDRE FOR COUNCIL,"200  Macdougal St
@@ -316,8 +317,8 @@ FARAH LOUIS FOR CITY COUNCIL 2023,"1655  Flatbush Avenue
 ,  A1609",No,10/14/2022,(347)893-5464,farahlouisn@gmail.com,,,,No,No,[],True
 FARIAS 2025,"1500  Thieriot Ave
 ,  A5",No,02/11/2025,(000)000-0000,electfarias@gmail.com,Ramdat  Singh,New York City Department Of Education,,No,No,[],True
-FARRELL FRITZ P.C.,400  Rxr Plaza,No,09/05/2023,(518)227-0700,pcurry@farrellfritz.com,Peter  Curry,Farrell Fritz P.C.,Uniondale,No,Yes,[],False
-FATHER MIKE FOR THE PEOPLE,5938  69 Avenue,No,02/10/2025,(347)592-5423,fathermikeforthepeople@gmail.com,Carlos  Velasquez,Edwards Lifesciences,,,No,[],True
+FARRELL FRITZ P.C.,400  Rxr Plaza,No,09/05/2023,(518)227-0700,pcurry@farrellfritz.com,Peter  Curry,Farrell Fritz P.C.,Uniondale,,Yes,[],False
+FATHER MIKE FOR THE PEOPLE,5938  69 Avenue,No,02/10/2025,(347)592-5423,fathermikeforthepeople@gmail.com,Carlos  Velasquez,Edwards Lifesciences,,No,No,[],True
 FATIMA 2023,3002  80th Street,No,04/27/2023,(718)500-4623,fatimaforny@gmail.com,Muhammad A Abbasi,Self-Employed,,No,No,[],True
 FEDEX CORPORATION NEW YORK STATE POLITICAL ACTION COMMITTEE,942  South Shady Grove Road,No,09/22/2022,(901)818-7220,fedexpac@fedex.com,Clement E Klank Iii,FedEx Corporation,"Memphis, Tn",No,Yes,[],False
 FEDIR USMANOV FOR CITY COUNCIL,"3045  Ocean Pkwy
@@ -365,9 +366,9 @@ FRIENDS OF DANIELLE HERBERT GUGGENHEIM,"3201  Grand Concourse
 ,  3G",No,12/09/2024,(646)696-0383,danielleny0@yahoo.com,Richard  Wooley,Self-Employed,,No,No,[],True
 FRIENDS OF DIANE DI STASIO,"850  W End Avenue
 ,  507",No,03/01/2023,(615)364-0422,diane@dianedistasio.com,Nancy  Sliwa,Guardian Angels Independent Contractor,,No,No,[],True
-FRIENDS OF DIMPLE WILLABUS 2025,2006  East 61st Street,No,04/22/2024,(347)394-5904,dimpleforcitycouncil46@gmail.com,,,,No,No,[],True
+FRIENDS OF DIMPLE WILLABUS 2025,2006  East 61st Street,No,04/22/2024,(347)394-5904,dimpleforcitycouncil46@gmail.com,,,,No,,[],True
 FRIENDS OF DONOVAN RICHARDS,"334  Beach 69th Street
-,  1st Fl",No,07/21/2023,(201)407-3979,malikmsanders@gmail.com,Malik  Sanders,Queens Defenders,,,No,[],True
+,  1st Fl",No,07/21/2023,(201)407-3979,malikmsanders@gmail.com,Malik  Sanders,Queens Defenders,,No,No,[],True
 FRIENDS OF DOV HIKIND,"7  Clubside Drive
 ,  7",No,03/31/2023,(917)335-6555,zsender@aol.com,RIVKA  Sender,,,Yes,Yes,[],True
 FRIENDS OF DR MUZIBUL HUQ FOR NYC MAYOR,100  Landau Avenue,No,06/24/2024,(609)287-1744,muzibul_huq@yahoo.com,,,,No,No,[],True
@@ -477,7 +478,7 @@ HIRAM 23,100-13  Astoria Blvd,No,04/03/2023,(718)874-6777,councilmanmonserrate@g
 HIRAM25,100-13  Astoria Blvd.,No,07/23/2024,(718)874-6777,councilmanmonserrate@gmail.com,Sammy  Muniz,Otg Management,,No,No,[],True
 HOPE FOR NYC,12015  135 Ave,No,09/04/2024,(347)652-9463,hopefornyc7@gmail.com,,,,No,No,[],True
 "HOTEL ASSOCIATION OF NEW YORK CITY, INC. - PAC","34  East 51st Street
-,  8th Fl",No,02/15/2023,(212)754-6700,accounting@hanyc.org,Albert  Fernandez,"HOTEL ASSOCIATION OF NEW YORK CITY, INC.",New York,Yes,Yes,[],False
+,  8th Fl",No,02/15/2023,(212)754-6700,accounting@hanyc.org,Albert  Fernandez,"Hotel Association Of New York City, Inc.",New York,Yes,Yes,[],False
 HOYLMAN FOR SENATE,"80  8th Ave
 ,  1802",No,09/30/2022,(917)513-4203,georgecominskie@gmail.com,George  Cominskie,,,Yes,Yes,[],True
 HOYLMAN-SIGAL 2025,"80  Eighth Avenue
@@ -578,6 +579,7 @@ KAREN STACHEL FOR MAYOR,"622  W 147
 ,  B",No,03/13/2025,(212)781-0923,karen@purpleroom.net,Karen  Stachel,Self-Employed,,No,No,[],True
 KAYLA FOR COUNCIL,"9221  5th Avenue
 ,  2nd Fl",No,11/25/2024,(718)954-7044,hello@kaylaforcouncil.com,Frank  Tramontano,Self-Employed,,No,No,[],True
+KAYLATIE2025,457  80th St,No,12/05/2025,(347)598-4367,fttaxprep1@gmail.com,Frank  Tramontano,Self-Employed,,No,No,[],True
 KAZEMBE BATTS FOR 36TH COUNCIL,"1600 Ful  Suite 9c
 ,  Suite",No,03/18/2025,(347)528-2977,kazembebatts@gmail.com,Jeff  Wells Jr.,Self-Employed,,No,No,[],True
 KEBREAU FOR CITY COUNCIL 2023,"1010  Rutland Road
@@ -587,7 +589,7 @@ KEITH POWERS FOR COUNCIL 2023,"7  Stuyvesant Oval
 KEITH POWERS FOR MANHATTAN,"515  East 86th St
 ,  802",No,08/08/2024,(917)363-7420,john.bartos@gmail.com,John  Bartos,Self-Employed,,No,No,[],True
 KENNY FOR COUNCIL,9416  Farragut Rd,No,01/13/2025,(718)807-7484,kennyforcitycouncil2025@gmail.com,Marlene  Pierre-Louis,Precision Tax Services,,No,No,[],True
-KENNY LEVER,153  St Marks Ave,No,04/28/2025,(917)754-1744,dontget1@gmail.com,Kenny  Lever,NYC Mta,,No,No,[],True
+KENNY LEVER,153  St Marks Ave,No,04/28/2025,(917)754-1744,dontget1@gmail.com,Kenny  Lever,NYC Mta,,No,,[],True
 KEVIN PARKER FOR NYC 2025,"3613  Avenue H
 ,  1",No,08/07/2024,(718)434-8501,senatorparker@gmail.com,Shirell R Weston,Weil Gotshal Manges Llp,,No,No,[],True
 KEVIN PAUL CORPORATION,"559  Vermont Street
@@ -704,6 +706,8 @@ MEALY 2023,136  Saratoga Avenue,No,02/14/2023,(347)200-9701,mealyforthepeople@gm
 MENIN FOR NYC 2023,PO Box  287068,No,06/22/2022,(646)415-2050,meninfornyc2023@gmail.com,Daniele  Campbell,Fubotv,,No,No,[],True
 MERCEDES 2023,10518  Avenue L,No,02/18/2022,(347)731-5091,mnarcisse4@gmail.com,Paul  Henderson,Self-Employed,,No,No,[],True
 MERCEDES 2025,10518  Avenue L,No,01/02/2024,(347)731-5091,mnarcisse4@gmail.com,Paul  Henderson,Self-Employed,,No,No,[],True
+MERCEDES 2026 TIE,"218  20th St
+,  2",No,12/05/2025,(216)209-7368,paul@ravenstrategies.com,Paul  Henderson,Raven Strategies,,No,No,[],True
 METALLIC LATHERS & REINFORCING IRON WORKERS LOCAL 46 POLITICAL ACTION COMMITTEE STATE PAC,"1322  Third Avenue
 ,  2nd Fl",No,03/06/2023,(212)737-0500,mikelocal46@gmail.com,Michael  Anderson,Metallic Lathers and Reinforcing Iron Workers Local 46,,No,Yes,[],False
 METROPOLITAN FUNERAL DIRECTORS ASSOCIATION,1  S Family Drive,No,01/03/2023,(800)763-8332,info@metfda.org,Henry M Gutterman,Metropolitan Funeral Directors Association,Albany,Yes,Yes,[],False
@@ -831,6 +835,7 @@ PEOPLE FOR ELVIS SANTANA,"804  Westchester Avenue
 ,  2A",No,07/11/2024,(646)639-7958,elvis@votesantana.org,Leah  Carter,Self-Employed,,No,No,[],True
 PEOPLE FOR ERYCKA,PO Box  730535,No,04/22/2024,(917)560-5692,erycka.montoya@gmail.com,Leah A Carter,Variety Boys And Girls Club Of Queens,,No,No,[],True
 PEOPLE FOR VANESSA L GIBSON,867  Madison Place,No,05/10/2022,(347)256-5361,leahcarternycc@gmail.com,Leah A Carter,Consultant,,No,No,[],True
+PEOPLE FOR VANESSA L GIBSON TIE,867  Madison Pl,No,12/05/2025,(347)256-5361,leahcarternycc@gmail.com,Leah A Carter,Self-Employed,,No,No,[],True
 PETER KEFALAS FOR NYC COMPTROLLER 2025,63-161  Alderton,No,02/03/2025,(917)834-1207,peterkefalasny@gmail.com,Zawar  Sheikh,Self-Employed,,No,No,[],True
 PETER SPIAK FOR COUNCIL,"8210  19th Ave
 ,  F4",No,11/19/2024,(347)647-7740,spiak91@gmail.com,,,,No,No,[],True
@@ -893,13 +898,13 @@ ROMEO 2025,114-37  149th Avenue,No,02/07/2024,(917)749-7700,romeohitlall@gmail.c
 RONEN FOR MAYOR,"634  Washington St
 ,  GA",No,01/30/2025,(718)640-6783,jmkyriakides@gmail.com,Ronen  Nahom,Self-Employed,,No,No,[],True
 ROSA CARES,"1951  Park Avenue
-,  N607",No,01/16/2025,(347)885-1687,rosagcares@gmail.com,Rosa G Diaz,Self-Employed,,No,No,[],True
+,  N607",No,01/16/2025,(347)885-1687,rosagcares@gmail.com,Rosa G Diaz,Self-Employed,,No,,[],True
 ROSE HELLMAN FOR MAYOR 2025,1547  East 34th Street,No,08/20/2025,(718)258-7582,rosieh4355@gmail.com,Rose  Hellman,Self-Employed,,No,No,[],True
 RPAC OF NEW YORK,"130  Washington Ave
 ,  2nd Fl",No,02/04/2022,(518)380-5369,govt@nysar.com,Michael  Kelly,Dorothy Jensen Realty Inc.,White Plains,Yes,Yes,[],False
 RSA PAC CITY ACCOUNT,"123  William St
 ,  12",No,03/14/2022,(212)214-9266,ricci@rsanyc.org,Frank  Ricci,Ditmas Mgmt.,,No,Yes,[],False
-RUBAIYA FOR NY,247-39  90 Ave,No,01/06/2023,(347)873-9962,rubaiyaforny@gmail.com,Lawrence  Spivak,Self-Employed,,,No,[],True
+RUBAIYA FOR NY,247-39  90 Ave,No,01/06/2023,(347)873-9962,rubaiyaforny@gmail.com,Lawrence  Spivak,Self-Employed,,No,No,[],True
 RUSAT FOR NEW YORK,109-41  133rd Street,No,03/13/2023,(646)436-4295,rusatfornewyork@gmail.com,,,,No,No,[],True
 RWDSU LOCAL 338 POLITICAL ACTION COMMITTEE,1505  Kellum Place,No,06/02/2023,(516)294-1338,kshane@local338.org,Katie  Shane,Local 338 RWDSU/UFCW,,No,Yes,[],False
 RYAN 2023,"648  E 11th St
@@ -1008,7 +1013,7 @@ STOP THE CAP - FAN FOR NYC,"418  Broadway
 STREETSPAC,"17  Battery Place
 ,  204",No,07/13/2022,(646)522-2589,eric@streetspac.org,Eric  Mcclure,Self-employed,New York,No,Yes,[],False
 STRINGER NYC,"1001  Avenue Of The Americas
-,  2nd fl",No,01/16/2024,(347)256-5361,leahcarternycc@gmail.com,,Variety Boys And Girls Club Of Queens,,No,No,[],True
+,  2nd fl",No,01/16/2024,(347)256-5361,leahcarternycc@gmail.com,Leah A Carter,Variety Boys And Girls Club Of Queens,,No,No,[],True
 STRIVING FOR A BETTER NEW YORK,10521  Flatlands 3rd Street,No,05/29/2023,(347)693-9274,carmensterling@yahoo.com,Carmen  Sterling,Self Employed,Brooklyn,Yes,Yes,[],False
 STYLO SAPASKIS FOR CITY COUNCIL,"3725 Bla  Blackstone
 ,  6zG",No,04/22/2025,(917)566-4263,styloadoniscollegegrad@yahoo.com,Stylo A Sapaskis,Fox News,,No,No,[],True
@@ -1071,6 +1076,8 @@ TVERA SOCIAL DISTANCING HEALTH TASK-FORCE COMMITTEE,"315  W 36th
 ,  18B",No,01/14/2023,(646)771-8862,tvera.s.d.h.t.c@gmail.com,Emily YueXin S Miller,Tv Era Social Distancing Health Taskforce Committee,,No,No,[],True
 TY FOR NYC,"147-25  94th Avenue
 ,  2122",No,06/24/2024,(347)869-6271,tyfornyc@gmail.com,Theresa  Patterson,Pi Developments,,No,No,[],True
+TYFORD28,"123-65  147th Street
+,  A308",No,12/05/2025,(646)354-9573,tyfornyc@gmail.com,Theresa  Patterson,Eagle Rock Management,,No,No,[],True
 TYREEK GOODMAN FOR CITY COUNCIL,"721  Tinton Ave
 ,  11 H",No,07/10/2025,(917)471-7340,thefightforusbegins@gmail.com,,,,No,No,[],True
 UFOA 527,"125  Maiden Lane
@@ -1113,7 +1120,7 @@ WAYNE CHANG FOR BROOKLYN BOROUGH PRESIDENT,832  Troy Avenue,No,01/22/2025,(121)2
 WE THE PEOPLE 4 GIOVANNI,32  Bernard Street,No,07/12/2025,(347)337-9309,w.t.p.4gio@gmail.com,Giovanni  Franco,New York City Department Of Parks,,No,No,[],True
 WEDDERBURN FOR THE PEOPLE,1599  Union Street,No,09/27/2024,(917)781-3763,wedderburnforthepeople@gmail.com,Nicole A Job,NYC Department Of Education,,No,No,[],True
 WEINER 25,"510  East 14th Street
-,  316",No,12/06/2024,,anthony@anthonyweiner.com,Alexis  Georgiadis,Weiner '25,,No,No,[],True
+,  316",No,12/06/2024,(347)644-9333,anthony@anthonyweiner.com,Alexis  Georgiadis,Weiner '25,,No,No,[],True
 WHITNEY FOR MAYOR,"1165  Fifth Avenue
 ,  4c",No,11/26/2024,(646)939-7393,contact@whitneyformayor.com,,,,No,No,[],True
 WILFREDOHIERREZUELOFORCITYCOUNCIL,"2117  Virgil Pl
