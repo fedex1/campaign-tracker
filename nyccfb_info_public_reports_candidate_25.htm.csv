@@ -1,27 +1,18 @@
 An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.
-"[PlatformNotSupportedException: The SQL Server edition of the target server is unsupported, e.g. SQL Azure.]
-   Hangfire.SqlServer.SqlServerObjectsInstaller.Install(DbConnection connection, String schema) +644
-   Hangfire.SqlServer.SqlServerStorage..ctor(String nameOrConnectionString, SqlServerStorageOptions options) +109
-   Hangfire.SqlServerStorageExtensions.UseSqlServerStorage(IGlobalConfiguration configuration, String nameOrConnectionString, SqlServerStorageOptions options) +72
-   Internet.WEB.AppStartup.Configuration(IAppBuilder app) in C:\Users\jbao\OneDrive\OneDrive - NYCCFB\Repos\Internet\Internet Website - Copy\Src\Dev\Internet.WEB\App_Start\AppStartup.cs:22
+"[UmbracoStartupFailedException: Umbraco cannot start. A connection string is configured but Umbraco cannot connect to the database.]
+   Umbraco.Core.CoreBootManager.EnsureDatabaseConnection() +911
+   Umbraco.Core.CoreBootManager.Complete(Action`1 afterComplete) +84
+   Umbraco.Web.WebBootManager.Complete(Action`1 afterComplete) +116
+   Umbraco.Core.UmbracoApplicationBase.StartApplication(Object sender, EventArgs e) +390
 
-[TargetInvocationException: Exception has been thrown by the target of an invocation.]
-   System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor) +0
-   System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments) +132
-   System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture) +146
-   Owin.Loader.<>c__DisplayClass12.<MakeDelegate>b__b(IAppBuilder builder) +93
-   Owin.Loader.<>c__DisplayClass1.<LoadImplementation>b__0(IAppBuilder builder) +224
-   Microsoft.Owin.Host.SystemWeb.OwinAppContext.Initialize(Action`1 startup) +900
-   Microsoft.Owin.Host.SystemWeb.OwinBuilder.Build(Action`1 startup) +51
-   Microsoft.Owin.Host.SystemWeb.OwinHttpModule.InitializeBlueprint() +101
-   System.Threading.LazyInitializer.EnsureInitializedCore(T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory) +139
-   Microsoft.Owin.Host.SystemWeb.OwinHttpModule.Init(HttpApplication context) +160
-   System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers) +587
+[HttpException (0x80004005): Umbraco cannot start. A connection string is configured but Umbraco cannot connect to the database.]
+   System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app) +546
+   System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers) +171
    System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context) +173
    System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context) +255
    System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext) +347
 
-[HttpException (0x80004005): Exception has been thrown by the target of an invocation.]
+[HttpException (0x80004005): Umbraco cannot start. A connection string is configured but Umbraco cannot connect to the database.]
    System.Web.HttpRuntime.FirstRequestInit(HttpContext context) +552
    System.Web.HttpRuntime.EnsureFirstRequestInit(HttpContext context) +122
    System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context) +737"
